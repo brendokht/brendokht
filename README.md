@@ -6,7 +6,8 @@
 - I play Esports for Fanshawe Fuel's Rainbow Six Siege team
 ---
 ## I'm currently working on ...
-- School work 🎓
+- Personal Website
+- Preparing for new job!
 ---
 ## I'm currently learning ...
 - React
