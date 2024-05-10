@@ -6,13 +6,11 @@
 - I play Esports for Fanshawe Fuel's Rainbow Six Siege team
 ---
 ## I'm currently working on ...
-- Personal Website
-- Preparing for new job!
+- New Job!
 ---
 ## I'm currently learning ...
-- React
-- React Native
-- Node.js
+- ASP.NET MVC
+- Razor Pages
 ---
 ## How to reach me ...
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/brendenkohut/) for formal communication
