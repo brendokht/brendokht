@@ -9,23 +9,22 @@
 
 ---
 ## I'm currently working on ...
-- Revamping personal website.
-- Developing a new full-stack project.
+- New School Semester
 
 ---
 
 ## I'm currently learning ...
 
-- Astro
-- Tailwind
-- ASP.NET Core Identity
+- Angular
+- Spring Boot
+- PHP
+- Kotlin
 
 ---
 
 ## How to reach me ...
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/brendenkohut/) for formal communication.
-- Follow me on [X (or Twitter)](https://twitter.com/brendokht) for informal communication.
 
 <!--
 **brendokht/brendokht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
