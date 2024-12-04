@@ -9,7 +9,7 @@
 
 ---
 ## I'm currently working on ...
-- New School Semester
+- Final Projects and Exams
 
 ---
 
