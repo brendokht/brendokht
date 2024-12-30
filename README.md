@@ -3,28 +3,29 @@
 ---
 
 ## About Me ...
-- I am working towards a Computer Programming and Analysis diploma at Fanshawe College in Ontario, Canada
-- I am an aspiring **Full Stack Developer**
-- I play Esports for Fanshawe Fuel's Rainbow Six Siege team
+- I recently completed my Computer Programming and Analysis diploma at Fanshawe College in London, Ontario, Canada.
+- I am an aspiring Software Developer.
+- I used to play Esports for Fanshawe Fuel's Rainbow Six Siege team.
 
 ---
+
 ## I'm currently working on ...
-- Final Projects and Exams
+- A passion project for esports event management.
 
 ---
 
 ## I'm currently learning ...
 
-- Angular
-- Spring Boot
-- PHP
-- Kotlin
+- Next.js
+- Supabase
+- Postgres
+- Vercel
 
 ---
 
 ## How to reach me ...
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/brendenkohut/) for formal communication.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/brendenkohut/)!
 
 <!--
 **brendokht/brendokht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
