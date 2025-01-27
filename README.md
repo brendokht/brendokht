@@ -3,14 +3,16 @@
 ---
 
 ## About Me ...
-- I recently completed my Computer Programming and Analysis diploma at Fanshawe College in London, Ontario, Canada.
-- I am an aspiring Software Developer.
-- I used to play Esports for Fanshawe Fuel's Rainbow Six Siege team.
+
+- I recently graduated from _Fanshawe College_ with an Advanced Diploma in Computer Programming and Analysis
+- I am an aspiring professional Software Developer.
+- I used to play Collegiate Esports for Fanshawe's Rainbow Six Siege team.
 
 ---
 
 ## I'm currently working on ...
-- A passion project for esports event management.
+- A Next.js application for esports event management.
+- A template company website using Astro, Sanity.io, and other tools.
 
 ---
 
@@ -26,6 +28,8 @@
 ## How to reach me ...
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/brendenkohut/)!
+- Follow me on [X](https://x.com/brendokht)!
+- Use my contact form on [my website!](https://brendenkohut.com/contact)!
 
 <!--
 **brendokht/brendokht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
