@@ -4,30 +4,35 @@
 
 ## About Me ...
 
-Hey! I'm Brenden, a new graduate with an Advanced Diploma in Computer Programming and Analysis from Fanshawe College. My goal is to become a Fullstack Developer, specializing in TypeScript, React, and Bun.
+Hey! I'm Brenden, a new graduate with an Advanced Diploma in Computer Programming and Analysis from Fanshawe College. I aspire to become a fullstack developer, using TypeScript, React, and any backend framework (no preference currnently :P)
 
 ---
 
 ## I'm currently working on ...
 
-- An Esports event management system.
-- Starting a Digital Media company with friends.
+- A competitve Esports service.
+- Trying to start a Digital Media company with friends.
+- DSA Practice in Go
 
 ---
 
 ## My favourite technologies ...
 
-- React
 - Next.js
 - Astro
-- Bun
 - TypeScript
 
 ## I'm currently learning ...
 
 - SEO
-- Astro
-- Web and Graphic Design Basics
+- NestJS
+- Go
+
+## I want to eventually learn...
+
+- Bun
+- Hono
+- Svelte
 
 ---
 
